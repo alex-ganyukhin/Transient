@@ -8,7 +8,8 @@
     --modal-background: var(--color-base-00);
 }
 
-.suggestion-container.mod-search-suggestion,
+.suggestion-container,
+.popover,
 .menu,
 .prompt {
     background-color: var(--color-base-00);
